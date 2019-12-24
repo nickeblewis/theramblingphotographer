@@ -66,7 +66,7 @@ _coming soon..._
 
 ## 6. Throughout the city
 
-<captioned-image alt="Philological Library by Foster+Partners" caption="Philological Library by Foster+Partners" imgFile="/guides/berlin/philological-library-foster.jpg" />
+<captioned-image alt="Philological Library by Foster+Partners" caption="Philological Library by Foster+Partners" imgFile="uploads/_DSC4917.jpg" />
 
 The abundance of interesting architecture in Berlin makes it hard to split it all into sections. This last chapter points to some other significant buildings worth visiting while in the city.
 
