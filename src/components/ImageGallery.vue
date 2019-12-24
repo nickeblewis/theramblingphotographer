@@ -1,5 +1,6 @@
 <template>
   <div class="full-width px-4">
+      <p>Hello mate {{numImages}}</p>
       <div class="max-w-4xl mx-auto mb-8" >
         <client-only>
           <masonry
