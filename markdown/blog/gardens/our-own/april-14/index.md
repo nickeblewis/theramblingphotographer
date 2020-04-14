@@ -18,7 +18,7 @@ import ImageGallery from '~/components/ImageGallery.vue'
 
 There are...
 
-<image-gallery folder="/gardening/our-garden/plants" prefix="april" :num="1"/>
+<image-gallery folder="/gardening/our-garden/plants" prefix="april" :num="3"/>
 
 ## Wildlife
 
@@ -31,4 +31,5 @@ There are...
 <image-gallery folder="/gardening/our-garden/houseplants" prefix="april" :num="1"/>
 
 ## Photography Tips
+
 <captioned-image alt="Robin" caption="Robin perched on watering-can handle" imgFile="gardening/our-garden/wildlife/april - 1.jpeg" :blog="true"/>
