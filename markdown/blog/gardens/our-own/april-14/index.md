@@ -20,7 +20,7 @@ Our garden is looking absolutely glorious right now and over the past 3 weeks I'
 
 Tulips, Hyacinths, Primroses and burgeoning bluebells are all vying for their photosynthesis right now, as the long, warm days ensue.
 
-<image-gallery folder="/gardening/our-garden/plants" prefix="april" :num="11"/>
+<image-gallery folder="/gardening/our-garden/plants" prefix="april" :num="9"/>
 
 ## Wildlife
 
