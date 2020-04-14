@@ -3,7 +3,7 @@
       <div class="max-w-4xl mx-auto mb-8" >
         <client-only>
           <masonry
-            :cols="{default: maxNumCols, 1024: maxNumCols,  768: maxNumCols, 640: 2, 375: 1}"
+            :cols="{default: maxNumCols, 1024: maxNumCols,  768: maxNumCols, 640: 1, 375: 1}"
             :gutter="0"
           >
             <div v-for="(item, index) in imgUrls" :key="index" class="py-1 sm:px-1">

@@ -16,13 +16,15 @@ import ImageGallery from '~/components/ImageGallery.vue'
 
 ## Garden Plants
 
-There are...
+Our garden is looking absolutely glorious right now and over the past 3 weeks I've taken an assortment of photographs of it during my gardening sessions. Most of the photos in this set were taken using a 70-200mm lens to attain the desired depth of field, basically as shallow as possible, so that I blur out the distracting stuff in the garden. Who wants to see the airer for example? None of you, that's for sure!
+
+Tulips, Hyacinths, Primroses and burgeoning bluebells are all vying for their photosynthesis right now, as the long, warm days ensue.
 
 <image-gallery folder="/gardening/our-garden/plants" prefix="april" :num="3"/>
 
 ## Wildlife
 
-<image-gallery folder="/gardening/our-garden/wildlife" prefix="april" :num="1"/>
+<image-gallery folder="/gardening/our-garden/wildlife" prefix="april" :num="7"/>
 
 ## Houseplants
 
