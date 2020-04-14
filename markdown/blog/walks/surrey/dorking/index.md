@@ -1,12 +1,12 @@
 ---
 title: The Dorking Pilgrims
-summary: I set off on a walk to find traces of William Mullins, The Dorking Pilgrim and the journey they took on the Mayflower September 1620
+summary: Recently I set off on a walk to find traces of William Mullins. The Dorking Pilgrim and the journey that both he and his own family took as they set sail, along with the other passengers onboard the Mayflower. September 1620.
 slug: the-dorking-pilgrims
-date: 2020-03-16
+date: 2020-03-06
 published: true
 section: walks
 sub: surrey
-coverImage: ./titchfieldhaven.jpeg
+coverImage: /images/surrey/dorking-pilgrims/william-mullins - 1.jpeg
 tags:
  - Dorking
  - Surrey
@@ -17,70 +17,56 @@ import CaptionedImage from '~/components/CaptionedImage.vue'
 import Divider from '~/components/Divider.vue'
 import ImageGallery from '~/components/ImageGallery.vue'
 
-Hill Head is a village just South of Stubbington and Fareham located on the Solent coastline. An ideal place to pick up the coastal Solent Way path that spans 60 miles of the Hampshire coastline between Milford-on-Sea and Emsworth, via Lymington, Southampton and Portsmouth.
+I have recently been tracing my roots back to William Brewster's time, the days of epic voyages to settle on the other side of the Atlantic. 
 
-<image-gallery folder="/hampshire/hill-head" prefix="lewis" :num="1"/>
+I decided to begin by seeing what I could find locally. I discovered a man called William Mullins, a Dorking resident who was one of the passengers onboard the historic Mayflower voyage in 1620, some 400 years ago today.
+
+__Please Note: I wrote this a few weeks before the Covid-19 outbreak and this is the first of a number of retrospective articles I'm going to write__
+
+<captioned-image alt="William Mullins" caption="William Mullins as depicted by the Dorking Museum" imgFile="surrey/dorking-pilgrims/william-mullins - 14.jpeg" :blog="true"/>
+
+My journey therefore begins with a visit to the house in which William Mullins lived between 1568 and 1610, close to Dorking Museum. It is known that he William travelled with his wife Alice, servant Robert Carter, daughter Priscilla and son Joseph onboard the Mayflower. However it is not known why they all chose to go. 
+
+William was the owner of a very successful shoe business in the Surrey town. However it is possible he may have been looking to expand his business in the colonies. In the photo above, he is depicted as arriving on American soil with a large number of shoes to trade. He had mortgaged the house in 1612 and sold it the year before the Mayflower set sail for America.
+
+<captioned-image alt="Childrens drawings" caption="Childrens drawings at the Dorking Museum" imgFile="surrey/dorking-pilgrims/william-mullins - 12.jpeg" :blog="true"/>
+
+The Mullins were not known to have been separatists themselves, in fact it is instead believed that William Mullins was one of the "Strangers", a group of people who financed the Atlantic crossing.
+
+After the Mayflower landed off the coast of Cape Cod in North East America, November 1620, the settlement of New Plymouth was quickly established. Sadly disease was rife and all but one of the Mullins family had perished by 1621, leaving just Priscilla as the last remaining survivor of the Dorking party.
+
+## Priscilla Aiden
+
+Priscilla later married John Aiden in 1623, one of the other settlers who had originated from Harwich, Essex. John was a cooper and whom had been responsible for the Mayflower's barrels onboard. They settled in the new town of Duxbury where they later raised their ten children. John Aiden rose through the ranks becoming a leading figure in the administration of the colony.
+
+Priscilla is today remembered in the publication of Henry Wadsworth Longfellow's poem "The Courtship of Miles Standish" and is revered as a founder of the United States of America. John Adams and his son John Quincy Adams claim descent from the Aidens.
+
+Today both the Mullins' house, Dorking and the Aidens' house at Duxbury in Massachusetts survive as places of pilgrimage for Mayflower descendants.
+
+<captioned-image alt="Mullins tea-shop" caption="The Mullins’ House is now a fantastic coffee shop, that Tina and I enjoyed recently!" imgFile="surrey/dorking-pilgrims/william-mullins - 9.jpeg" :blog="true"/>
+
+## Mullins’ House Today
+
+I can only share my photos of Dorking and the house that the Mullins lived in for the moment but I am excited to say that we are, as I may have already written, going to Boston in September (Coronavirus permitting that is!) 
+
+We will travel from Boston down to Plymouth and around the Cape Cod area as much as we can with the limited time we have available whilst there. So some things may have to be left until a second visit, another year.
+
+My wife Tina and I went to visit the Mullins’ house and Dorking Museum recently. The house is now a lovely coffee shop that is also packed with historical details of the Mullins’ and other Mayflower passengers, as shown on the wall in the photo below and also on the table tops for you to read whilst enjoying a nice cuppa.
+
+We had an interesting conversation with the Cafe owner who knew a lot about the history and most of what I’ve written here is thanks to him. He told us that in order to learn more about my roots, we need to look at William Brewster’s broader family who did not travel to the USA. That is where my connection may be with them rather than the Pilgrim Father himself. Well, makes sense of course! William took his entire family with him and then he and his wife Mary had more children once they had settled there. 
+
+He also went onto tell us about the Plimoth Plantation in Massachusetts where you get to meet William Brewster, William Bradford and other famous names from history. No, not the real ones, they would be doing very well to be 400+ years old but actors playing the role. Now that sounds like fun! He reminisced about how they reacted to cameras and mobile phones which they would never have seen in their day.
+
+The delightful coffee shop is also a museum!
+
+I love Dorking, it's a pretty place, in a gorgeous setting and we do spend a lot of time in the Surrey Hills and thankful that it is not far from home, 30 minutes in most cases, depending on which bit we are going to. Great for hikes!
+
+I will return to Dorking again in the not too distant future to join a historical walk to celebrate Mayflower400 and look forward to learning some more.
+
+## More Dorking history
+
+Whilst seeking out the Mayflower links, I found further connections with other significant Britons of the past. People such as Charles Grant Allen a prolific writer and anthropolgist who followed in the footsteps of Charles Darwin and whom wrote a string of novels, many bestsellers of their time.
+
+## The complete set of photos
+
 <image-gallery folder="/surrey/dorking-pilgrims" prefix="william-mullins" :num="22"/>
-
-https://goo.gl/maps/7S3B8mEPi75z2Ef77
-
-## Hill Head to Warsash
-This walk starts from [The Osborne View pub](https://www.osborneviewhillhead.co.uk/ "The Osborne View, Hill Head"), always a great place to start, end or both!
-
-We took a stroll down the hill to the coastal path (part of the Solent Way) that runs behind the Pub garden. You can either walk along the upper concrete path or if the tide is out and you have some wellies, take a paddle along the foreshore!
-
-<Divider />
-
-The views from this beach across the Solent to The Isle of Wight on a lovely clear day are fantastic. In fact The Osborne View is so called because directly opposite on the Wight coast is the former residence of Queen Victoria, Osborne House.
-
-![Green beach hut and punchy blue autumn sky](./hut.jpeg)
-
-<captioned-image alt="Green Hut" caption="Green Hut" imgFile="uploads/hut.jpeg" :blog="true"/>
-
-
-Soon you will reach some colourful Beach Huts and here there are some more steps that lead down on to the beach. The tide does go out fairly far at this point and keep your eyes peeled for some fabulous Oyster shells. It is no surprise this little corner of the shore is popular with wading birds such as Oystercatcher and on the day we took this walk a small flock of Ringed Plover.
-
-![Tina holds out an Oyster shell in her hand](./oyster.jpeg)
-
-If you are a photographer, this area is an amazing location for so many reasons and especially during the Autumn and Winter months when the sun is lower in the sky, it casts a beautiful light across the landscape. The sun sets just over the Isle of Wight in the month of November which makes it the perfect sunset location. The lines in the sand lending themselves very nicely as lead-in lines for any photographer’s compositional creativity.
-
-![Black and white patterns in the sand](./patterns.jpeg)
-
-As you pass the Beach Huts you reach the harbour at Meon Shore and Titchfield. Not far beyond the Yacht Club (where you can learn to sail), you reach Titchfield Nature Reserve and the excellent Cafe, shop and reserve offices run by Hampshire County Council.
-
-![Titchfield Haven nature reserve bathed in golden light](./titchfieldhaven.jpeg)
-
-The Nature Reserve is worth visiting and spending a decent length of time at because it is fairly big with two sides to explore. I have been there numerous times and depending on the time of year you visit, you can see quite a large number of birds from one of the hides or more often than not just the network of paths that weave through it. If you [visit their site](https://www.hants.gov.uk/thingstodo/countryparks/titchfield/explore), you can see a list of recent sightings. To give you an example, I’ve seen Avocet, Spoonbill, Marsh Harrier, Kingfisher, Stonechat, Teal, Widgeon, Shelduck and many other species on previous visits to the reserve. The Scrapes get very busy in the Summer with nesting birds and the sound is something else!
-
-![Beach chalets at Meon Shore](./Huts.jpeg)
-
-Keep on following the path which is mostly concrete/tarmac along the sea wall with the marshes to your right and the sea on your left. You soon reach a large expanse of beach that you can follow towards Warsash and the mouth of the River Hamble further ahead.
-
-If you prefer you can also follow a path along the cliff top, obviously depending on the tide and weather conditions, it may on some days be your only choice, not to mention a safer bet.
-
-It’s here where I shall pick up the path again in the future and follow it further along...
-
-## Wildlife to watch out for
-- Ringed Plover
-- Avocet
-- Marsh Harrier
-- Brent Geese (over-wintering)
-- Plus many others it’s a great place for overwintering species and summer migrants alike
-
-## Places to eat
-- [The Osborne View](https://www.osborneviewhillhead.co.uk/ "The Osborne View, Hill Head")
-- Titchfield Haven Cafe
-- Breezes Cafe
-
-## Places to park
-- The Pub car park is for patrons only but if you eat there they  will give you an exit code to raise the barrier
-- Other parking options further along the road at the Titchfield Haven end
-
-## Your walks
-- tell us about your favourites, feel free to Tweet me or post a comment below in the Disqus section. You never know I may go and check them out
-
-## Another day, another time
-- Titchfield Canal
-- [Chilling Coastal Area](https://www.hants.gov.uk/thingstodo/countryside/finder/chilling)
-- Titchfield Haven (Spring 2020)
-- More sections of the Solent Way to cover
