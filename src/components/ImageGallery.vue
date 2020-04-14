@@ -43,9 +43,9 @@ export default {
       console.log("number of images", this.num)
       const imgUrls = [];
       for (let i = 1; i <=this.num; i ++) {
-        const paddedNumber = ("00" + i).slice(-2);
-        console.log(`${process.env.GRIDSOME_IMGIX_URL}/${this.folder}/${this.prefix}-${paddedNumber}.jpg`.replace(/([^:])(\/\/+)/g, '$1/'))
-        imgUrls.push(`${process.env.GRIDSOME_IMGIX_URL}/${this.folder}/${this.prefix}-${paddedNumber}.jpg`.replace(/([^:])(\/\/+)/g, '$1/'))
+        const paddedNumber = ("" + i).slice(-2);
+        console.log(`${process.env.GRIDSOME_IMGIX_URL}/${this.folder}/${this.prefix} - ${paddedNumber}.jpeg`.replace(/([^:])(\/\/+)/g, '$1/'))
+        imgUrls.push(`${process.env.GRIDSOME_IMGIX_URL}/${this.folder}/${this.prefix} - ${paddedNumber}.jpeg`.replace(/([^:])(\/\/+)/g, '$1/'))
       }
       return imgUrls;
     }
