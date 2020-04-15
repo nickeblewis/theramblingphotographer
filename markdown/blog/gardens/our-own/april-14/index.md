@@ -46,4 +46,36 @@ There are...
 
 <captioned-image alt="Robin" caption="Robin perched on watering-can handle" imgFile="gardening/our-garden/wildlife/april - 1.jpeg" :blog="true"/>
 
+Around the edges of our flower borders are some old sandstone walls, they are about knee height at their tallest, they also make a great seat for a cup of tea and a daydream. I was watching one of a pair of Robins fly from one point to another, land, sing-a-song of merriment before moving on again. I guess from a real-world perspective it was marking it's territory out. I worked out that if I moved the watering-can from the patio onto the lawn and placed it somewhere on it's flight-path, it may just, if I was lucky, play along with a plan I had concocted. 
+
+> a veritable gourmet for any self-respecting garden bird
+
+So I did just that. I strategically placed the can on the lawn, put a little bird seed and a few mealworms, a veritable gourmet for any self-respecting garden bird, on top of it. I returned to my wall and with my 70-200mm added to the camera, I pre-focussed on the handle, set my aperture to f5.6 and waited for. He just appeared in my viewfinder, he went straight to it! I was amazed it would work so fast!
+
+## Alpine care - Aloe Vera
+
 <captioned-image alt="Aloe Vera" caption="Aloe Vera - which was in a tiny pot and becoming pot-bound" imgFile="gardening/our-garden/houseplants/april - 2.jpeg" :blog="true"/>
+
+Some time back I bought a couple of books from the [RHS Wisley Bookshop](https://www.rhs.org.uk/shop) which is an excellent resource. 
+
+The first of which was "Growing Alpines in Containers" by John Good ([Alpine Garden Society](https://www.alpinegardensociety.net/)) and the second was simply titled "Alpines" by Christopher Grey-Wilson by [Southwater Books](http://southwaterbooks.com)
+
+![](https://m.media-amazon.com/images/I/51znE2DGguL.jpg)
+
+Another beautiful book is "RHS Botany for Gardeners" which is rich with illustrations of plants and how to learn the art and science behind gardens and the plants that inhabit them. It is a book that I particularly love.
+
+I have also found the ["Picture This"](https://www.picturethisai.com) app to be really handy and I used it to look up details on my Aloe plant. To my surprise it also identified it as being sick, as the spots on the foliage are an indication of this. 
+
+Anyway, so with enough reference material to educate me on Alpines, I took action by transplanting the Aloe from the tiny pot that I bought it in and planted it in the bigger terracotta pot (pictured above). It is important to:
+
+- Add a reasonably good layer of potting grit to the bottom of the pot
+- Add houseplant or potting soil for small plants but mix in some more grit
+- Insert the plant and then pad some more soil around it to ensure it's firmly supported
+- Finally I added another layer of grit on the top.
+- It's soil is never going to remain soggy and wet!
+- Don't water, leave it be for awhile
+- Aloe and other alpines only need occasional watering
+- I probably should put the pot on a saucer so that when I do water it, I don't soak the windowsill
+- This window is on a sunny side of the house and that is important
+- Do put outside when warm and sunny
+- Move to a shadier spot when it gets really hot and the sunlight very intense
