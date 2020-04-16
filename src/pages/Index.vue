@@ -8,6 +8,7 @@
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
         <p class="font-sans font-bold">Grab the camera, let's go for a stroll!</p>
+        <p class="xl:w-3/4 text-red-700">...but not for the moment of course, we are self-isolating!</p>
         <p class="xl:w-3/4">Photography is a storytelling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, history and more through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
       </div>
     </section>  
@@ -256,15 +257,16 @@ query {
       }
     }
   }
-  posts: allPost (limit:4){
+  posts: allPost (limit:6){
     edges {
       node {
         id
         title
         summary
-        coverImage (width: 300, height: 200, quality: 90)
+        coverImage (width: 600, height: 600, quality: 90)
         date
         path
+        tags
       }
     }
   }

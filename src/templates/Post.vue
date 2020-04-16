@@ -169,6 +169,7 @@ export default {
   @apply text-lg;
 }
 .content  ul {
+  border: 1px solid red;
   list-style-type: square;
 }
 /* .content  ul > li {
@@ -180,6 +181,7 @@ export default {
 
 .content #buildings + ul, .content nav > ul {
   @apply list-none;
+  border: 1px solid red;
 }
 /* .content #buildings + ul > li, .content nav > p, .content nav > ul > li {
   @apply mb-1;

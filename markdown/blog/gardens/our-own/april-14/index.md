@@ -1,6 +1,6 @@
 ---
 title: The April Garden
-summary: Here at TRP we are totally stuck much like everyone else and no walks are taking place beyond the household. So I thought it would be a good idea to explore my very own garden...
+summary: Here at TRP we are self-isolating much like everyone else and no walks are taking place beyond the household. So I thought it would be a good idea to explore my very own garden. To treat it as our own micro National Park!
 slug: the-april-garden
 date: 2020-04-14
 published: true
@@ -9,6 +9,10 @@ sub: home
 coverImage: /images/gardening/our-garden/wildlife/april - 1.jpeg
 tags:
  - Gardening
+ - Photography
+ - Houseplants
+ - Wildlife
+ - Books
 ---
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import Divider from '~/components/Divider.vue'
@@ -38,9 +42,11 @@ Humbug, our cat doesn't seem to chase any of the garden visitors anymore and the
 
 ## Houseplants
 
-There are...
+This year we have also brought the garden indoors and my laptop is graced by a lush green backdrop of plants, including a Peace Lily, a Stromanthe (also known as a "Prayer Plant") and a very healthy Poinsettia we purchased back in December from Longacres, Bagshot. One of the finest garden centres on the Surrey border.
 
-<image-gallery folder="/gardening/our-garden/houseplants" prefix="april" :num="2"/>
+Houseplants are said to benefit our health both physically and mentally. They filter the air by reducing carbon and release more oxygen. This as a result benefits are working. I could practically work from a greenhouse if given half the chance, although in the summer months that may not be advisable...
+
+<image-gallery folder="/gardening/our-garden/houseplants" prefix="april" :num="3"/>
 
 ## Photography Tips
 

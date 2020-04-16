@@ -59,7 +59,7 @@
           id
           title
           summary
-          coverImage (width: 300, height: 200, quality: 90)
+          coverImage (width: 600, height: 600, quality: 90)
           date
           path
         }

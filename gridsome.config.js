@@ -14,7 +14,7 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'The Rambling Photographer',
+  siteName: 'The Self-Isolating Photographer',
   siteDescription: 'Discover great walks and interesting things about your area through photography and the art of just seeing',
   siteUrl: 'https://nicklewis.net',
   plugins: [ 

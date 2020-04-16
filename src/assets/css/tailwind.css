@@ -109,6 +109,10 @@ a.white-link, a.white-link:hover {
   @apply font-bold text-2xl;
 }
 
+.content-page ul {
+  @apply list-disc;
+}
+
 blockquote {
   @apply italic text-lg border-l-2 border-black pl-4 my-8;
 }
