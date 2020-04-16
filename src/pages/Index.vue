@@ -1,15 +1,15 @@
 <template>
   <Layout>
-    <section class="px-4 mb-12 text-lg
+    <section class="bg-fixed px-4 mb-12 text-lg
       sm:w-3/4 sm:text-xl
       md:text-2xl md:py-12 md:flex md:w-full md:p-0
       lg:text-3xl
-      xl:text-4xl xl:py-16">
+      xl:text-4xl xl:py-16" style="background-position: center;background-image: url('_DSC1110.jpg')">
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
-      <div class="md:w-2/3 xl:w-full md:px-4">
-        <p class="font-sans font-bold">Grab the camera, let's go for a stroll!</p>
-        <p class="xl:w-3/4 text-red-700">...but not for the moment of course, we are self-isolating!</p>
-        <p class="xl:w-3/4">Photography is a storytelling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, history and more through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
+      <div class="md:mx-4 md:w-2/3 xl:w-full md:px-4 bg-black opacity-75 rounded-md">
+        <p class="font-sans font-bold text-white">Grab the camera, let's go for a stroll!</p>
+        <!-- <p class="xl:w-3/4 text-red-700 text-white">...but not for the moment of course, we are adhering to the lockdown...</p> -->
+        <p class="xl:w-3/4 text-white">Photography is a storytelling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, history and more through my own gradual discoveries. Welcome to the <span class="text-red-700">Self-Isolating</span>&nbsp;<strike>Rambling</strike> Photographer...</p>
       </div>
     </section>  
     <!-- <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
