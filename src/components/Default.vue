@@ -48,7 +48,7 @@
             <g-link to="/newsletter/" class="white-link">Newsletter</g-link>
           </li>
         </ul>
-        <p class="text-xs">© 2019, Daniel da Rocha<br>Made with &hearts; and <a href="https://gridsome.org/" class="white-link">Gridsome</a>.</p>
+        <p class="text-xs">© 2020, Nick Lewis<br>Made with &hearts; and <a href="https://gridsome.org/" class="white-link">Gridsome</a>.</p>
     </footer>
   </div>
 </template>
